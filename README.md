@@ -6,12 +6,18 @@ Eclipse Public License - v 2.0가 사용되었습니다.
 
 
 
+
 플레이 하는법-
 
+
 게임 시작, 싱글모드로 전환, 게임 재시작: Enter
+
 플레이어1 이동 : A, W, D, S
+
 플레이어1 스킬 : F, G, H
+
 플레이어2 이동 : ◀▲▶▼ (방향키)
+
 플레이어2 스킬 : 넘패드 1, 2, 3
 
 
@@ -25,12 +31,18 @@ Eclipse Public License - v 2.0 is used.
 
 
 
+
 How to play-
 
+
 Start, Play with Single, Restart: Enter
+
 Player1 Move : A, W, D, S
+
 Player1 Skills : F, G, H
+
 Player2 Move : ◀▲▶▼ (arrow keys)
+
 Player2 Skills : Num Pad 1, 2, 3
 
 
